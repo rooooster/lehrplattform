@@ -1,3 +1,48 @@
-<svg width="290" height="167" viewBox="0 0 290 167" xmlns="http://www.w3.org/2000/svg">
-    <title>Border Variant Copy</title><g fill="none" fill-rule="evenodd"><g fill="#CDCDCD"><path d="M169.904 39.182l16.97-16.97 1.415 1.414-16.974 16.97zm0 6l24.04-24.042 1.416 1.414-24.042 24.042zm0 6l24.04-24.042 1.416 1.414-24.042 24.042zm0 6l31.113-31.112 1.414 1.414-31.11 31.113zm0-24l16.97-16.97 1.415 1.414-16.974 16.97zm0-6l16.97-16.97 1.415 1.414-16.974 16.97zm0-6l16.97-16.97 1.415 1.414-16.974 16.97z"/><path d="M1 57h170v2H1zm106-6h64v2h-64zm0-6h64v2h-64zm0-6h64v2h-64zm0-6h64v2h-64v-2zm0-6h64v2h-64zM1 21h170v2H1z"/></g><path fill="#CDCDCD" d="M.263 125.263h224v2h-224zm150-6h64v2h-64zm0-6h64v2h-64zm0-6h64v2h-64zm0-6h64v2h-64z"/><path fill="#CDCDCD" d="M150.263 101.263h64v2h-64zm0-6h64v2h-64zm-150-6h224v2h-224z"/><path d="M214 128V88l11-16V56s-9.587-10.334-22-23c-8.372 1.204-16.5-3.973-14-14-6.196-6.058-11-10-11-10l7-7s2.515 2.622 10 10c9.697-3.772 18.104 3.9 15 14 7.342 7.457 12.976 12.993 16 16 3.732-13.713 12.508-22.5 30-22 16.53-.5 33 0 33 0v25s-27.392-.305-34 0c-2.962-.305-5.006 1.75-5 4-.006 4.25 0 23 0 23l12 16v40l-18 38h-13l-17-38z" stroke="#E6E6E6" stroke-width="2" fill="#FFF"/><text font-family=".Helvetica Neue DeskInterface" font-size="14" fill="#727272" transform="translate(0 2)"><tspan x="0" y="44">Rohmehl</tspan></text><text font-family=".Helvetica Neue DeskInterface" font-size="14" fill="#727272" transform="translate(0 2)"><tspan x="-.661" y="111">Klinker-temperatur</tspan></text><path d="M198.645 21.29H188V23h10.645v10.645h1.71V23H211v-1.71h-10.645V10.646h-1.71V21.29zM225 71h6v2h-6v-2zm-10 17h16v2h-16v-2zm29 0h17v2h-17v-2zm-41.7-55.863l7.07-7.07 1.415 1.413-7.07 7.07-1.416-1.413zM244 71h6v2h-6v-2zm-11 0v37h-2V71h2zm11 0v37h-2V71h2zm-18.586-31l7.778 7.778-1.414 1.414L224 41.414 225.414 40z" fill="#E6E6E6"/><path d="M242 51v44l-2.25-3s-1.87 2.597-2.25 3c.033 0-2.25-3-2.25-3L233 95V51c0-2.21 2.015-4 4.5-4s4.5 1.79 4.5 4z" opacity=".3" fill="#4990E2"/><g transform="translate(223 98)" fill="#64C8EB"><circle cx="22.5" cy="2.5" r="2.5"/><circle cx="12.5" cy="2.5" r="2.5"/><circle cx="2.5" cy="2.5" r="2.5"/><circle cx="9.5" cy="9.5" r="2.5"/><circle cx="25.5" cy="19.5" r="2.5"/><circle cx="18.5" cy="14.5" r="2.5"/><circle cx="14.5" cy="33.5" r="2.5"/><circle cx="19.5" cy="26.5" r="2.5"/><circle cx="14.5" cy="43.5" r="2.5"/><circle cx="14.5" cy="53.5" r="2.5"/><circle cx="14.5" cy="63.5" r="2.5"/><circle cx="32.5" cy="2.5" r="2.5"/></g><g transform="translate(208 30)" fill="#4990E2"><circle cx="2.5" cy="3.5" r="2.5"/><circle cx="9.5" cy="10.5" r="2.5"/><circle cx="16.5" cy="17.5" r="2.5"/><circle cx="22.5" cy="24.5" r="2.5"/><circle cx="29.5" cy="22.5" r="2.5"/><circle cx="29.5" cy="32.5" r="2.5"/><circle cx="29.5" cy="11.5" r="2.5"/><circle cx="35.5" cy="4.5" r="2.5"/><circle cx="45.5" cy="2.5" r="2.5"/><circle cx="55.5" cy="2.5" r="2.5"/><circle cx="65.5" cy="2.5" r="2.5"/><circle cx="75.5" cy="2.5" r="2.5"/></g></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 167">
+  <g fill="none" fill-rule="evenodd">
+    <g fill="#CDCDCD">
+      <path d="M169.904 39.182l16.97-16.97 1.415 1.414-16.975 16.97zm0 6l24.04-24.042 1.416 1.414-24.042 24.042zm0 6l24.04-24.042 1.416 1.414-24.042 24.042zm0 6l31.113-31.112 1.414 1.414-31.11 31.113zm0-24l16.97-16.97 1.415 1.414-16.975 16.97zm0-6l16.97-16.97 1.415 1.414-16.975 16.97zm0-6l16.97-16.97 1.415 1.414-16.975 16.97z"/>
+      <path d="M1 57h170v2H1zm106-6h64v2h-64zm0-6h64v2h-64zm0-6h64v2h-64zm0-6h64v2h-64v-2zm0-6h64v2h-64zM1 21h170v2H1z"/>
+    </g>
+    <path fill="#CDCDCD" d="M.263 125.263h224v2h-224zm150-6h64v2h-64zm0-6h64v2h-64zm0-6h64v2h-64zm0-6h64v2h-64z"/>
+    <path fill="#CDCDCD" d="M150.263 101.263h64v2h-64zm0-6h64v2h-64zm-150-6h224v2h-224z"/>
+    <path fill="#FFF" stroke="#E6E6E6" stroke-width="2" d="M214 128V88l11-16V56s-9.587-10.334-22-23c-8.372 1.204-16.5-3.973-14-14-6.196-6.058-11-10-11-10l7-7s2.515 2.622 10 10c9.697-3.772 18.104 3.9 15 14 7.342 7.457 12.976 12.993 16 16 3.732-13.713 12.508-22.5 30-22 16.53-.5 33 0 33 0v25s-27.392-.305-34 0c-2.962-.305-5.006 1.75-5 4-.006 4.25 0 23 0 23l12 16v40l-18 38h-13l-17-38z"/>
+    <text fill="#727272" font-family=".Helvetica Neue DeskInterface" font-size="14" transform="translate(0 2)">
+      <tspan x="0" y="44">Rohmehl</tspan>
+    </text>
+    <text fill="#727272" font-family=".Helvetica Neue DeskInterface" font-size="14" transform="translate(0 2)">
+      <tspan x="-.661" y="111">Klinker-temperatur</tspan>
+    </text>
+    <path fill="#E6E6E6" d="M198.645 21.29H188V23h10.645v10.645h1.71V23H211v-1.71h-10.645V10.646h-1.71V21.29zM225 71h6v2h-6v-2zm-10 17h16v2h-16v-2zm29 0h17v2h-17v-2zm-41.7-55.863l7.07-7.07 1.415 1.413-7.07 7.07-1.416-1.413zM244 71h6v2h-6v-2zm-11 0v37h-2V71h2zm11 0v37h-2V71h2zm-18.586-31l7.778 7.778-1.414 1.414L224 41.414 225.414 40z"/>
+    <path fill="#4990E2" d="M242 51v44l-2.25-3s-1.87 2.597-2.25 3c.033 0-2.25-3-2.25-3L233 95V51c0-2.21 2.015-4 4.5-4s4.5 1.79 4.5 4z" opacity=".3"/>
+    <g fill="#64C8EB" transform="translate(223 98)">
+      <circle cx="22.5" cy="2.5" r="2.5"/>
+      <circle cx="12.5" cy="2.5" r="2.5"/>
+      <circle cx="2.5" cy="2.5" r="2.5"/>
+      <circle cx="9.5" cy="9.5" r="2.5"/>
+      <circle cx="25.5" cy="19.5" r="2.5"/>
+      <circle cx="18.5" cy="14.5" r="2.5"/>
+      <circle cx="14.5" cy="33.5" r="2.5"/>
+      <circle cx="19.5" cy="26.5" r="2.5"/>
+      <circle cx="14.5" cy="43.5" r="2.5"/>
+      <circle class="moveDown" cx="14.5" cy="53.5" r="2.5"/>
+      <circle class="moveDown" cx="14.5" cy="63.5" r="2.5"/>
+      <circle class="moveLeft" cx="32.5" cy="2.5" r="2.5"/>
+    </g>
+    <g fill="#4990E2" transform="translate(208 30)">
+      <circle class="moveRightDown" cx="-5.5" cy="-4.5" r="2.5"/>
+      <circle class="moveRightDown" cx="2.5" cy="3.5" r="2.5"/>
+      <circle class="moveRightDown" cx="9.5" cy="10.5" r="2.5"/>
+      <circle class="moveRightDown" cx="16.5" cy="17.5" r="2.5"/>
+      <circle class="moveRightDown" cx="22.5" cy="24.5" r="2.5"/>
+      <circle class="moveUp" cx="29.5" cy="32.5" r="2.5"/>
+      <circle class="moveUp" cx="29.5" cy="22.5" r="2.5"/>
+      <circle class="moveRightUp" cx="29.5" cy="11.5" r="2.5"/>
+      <circle class="moveRightUp" cx="35.5" cy="4.5" r="2.5"/>
+      <circle class="moveRight" cx="45.5" cy="2.5" r="2.5"/>
+      <circle class="moveRight" cx="55.5" cy="2.5" r="2.5"/>
+      <circle class="moveRight" cx="65.5" cy="2.5" r="2.5"/>
+      <circle class="moveRight" cx="75.5" cy="2.5" r="2.5"/>
+    </g>
+  </g>
 </svg>

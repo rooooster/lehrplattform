@@ -6,3 +6,94 @@ body {
 svg {
     background: #999;
 }
+
+
+
+
+
+
+$moveStep: 200%;
+
+
+
+.moveRightDown {
+    @include animation(moveRightDown .5s linear infinite);
+}
+
+
+@include keyframes(moveRightDown) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d($moveStep,$moveStep,0));
+    }
+}
+
+
+.moveRight {
+    @include animation(moveRight .5s linear infinite);
+}
+
+@include keyframes(moveRight) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d($moveStep,0,0));
+    }
+}
+
+
+.moveUp {
+    @include animation(moveUp .5s linear infinite);
+}
+
+@include keyframes(moveUp) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d(0,-$moveStep,0));
+    }
+}
+
+
+.moveRightUp {
+    @include animation(moveRightUp .5s linear infinite);
+}
+
+@include keyframes(moveRightUp) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d($moveStep,-$moveStep,0));
+    }
+}
+
+.moveLeft {
+    @include animation(moveLeft .5s linear infinite);
+}
+
+@include keyframes(moveLeft) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d(-$moveStep,0,0));
+    }
+}
+
+.moveDown {
+    @include animation(moveDown .5s linear infinite);
+}
+
+@include keyframes(moveDown) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d(0,$moveStep,0));
+    }
+}
