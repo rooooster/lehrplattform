@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="290px" height="167px" viewBox="0 0 290 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>Border Variant Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Border-Variant-Copy" sketch:type="MSLayerGroup" transform="translate(0.000000, 2.000000)">
+            <g id="Construction">
+                <g id="Group" transform="translate(1.000000, 2.000000)" fill="#CDCDCD" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-38-Copy-6" transform="translate(178.096194, 27.403806) rotate(-45.000000) translate(-178.096194, -27.403806) " x="166.096194" y="26.4038059" width="24" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-7" transform="translate(181.631728, 29.868272) rotate(-45.000000) translate(-181.631728, -29.868272) " x="164.631728" y="28.868272" width="34" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-8" transform="translate(181.631728, 35.868272) rotate(-45.000000) translate(-181.631728, -35.868272) " x="164.631728" y="34.868272" width="34" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-9" transform="translate(185.167262, 38.332738) rotate(-45.000000) translate(-185.167262, -38.332738) " x="163.167262" y="37.3327381" width="44" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-5" transform="translate(178.096194, 21.403806) rotate(-45.000000) translate(-178.096194, -21.403806) " x="166.096194" y="20.4038059" width="24" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-4" transform="translate(178.096194, 15.403806) rotate(-45.000000) translate(-178.096194, -15.403806) " x="166.096194" y="14.4038059" width="24" height="2"></rect>
+                    <rect id="Rectangle-38" transform="translate(178.096194, 9.403806) rotate(-45.000000) translate(-178.096194, -9.403806) " x="166.096194" y="8.40380592" width="24" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-10" x="1.98688064e-14" y="53" width="170" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-11" x="106" y="47" width="64" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-12" x="106" y="41" width="64" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-13" x="106" y="35" width="64" height="2"></rect>
+                    <path d="M106,29 L170,29 L170,31 L106,31 L106,29 Z" id="Rectangle-38-Copy-15"></path>
+                    <rect id="Rectangle-38-Copy-16" x="106" y="23" width="64" height="2"></rect>
+                    <rect id="Rectangle-38-Copy-17" x="1.98688064e-14" y="17" width="170" height="2"></rect>
+                </g>
+                <rect id="Rectangle-38-Copy-10" fill="#CDCDCD" sketch:type="MSShapeGroup" x="0.263455967" y="123.263456" width="224" height="2"></rect>
+                <rect id="Rectangle-38-Copy-11" fill="#CDCDCD" sketch:type="MSShapeGroup" x="150.263456" y="117.263456" width="64" height="2"></rect>
+                <rect id="Rectangle-38-Copy-12" fill="#CDCDCD" sketch:type="MSShapeGroup" x="150.263456" y="111.263456" width="64" height="2"></rect>
+                <rect id="Rectangle-38-Copy-13" fill="#CDCDCD" sketch:type="MSShapeGroup" x="150.263456" y="105.263456" width="64" height="2"></rect>
+                <rect id="Rectangle-38-Copy-14" fill="#CDCDCD" sketch:type="MSShapeGroup" x="150.263456" y="99.263456" width="64" height="2"></rect>
+                <rect id="Rectangle-38-Copy-15" fill="#CDCDCD" sketch:type="MSShapeGroup" x="150.263456" y="99.263456" width="64" height="2"></rect>
+                <rect id="Rectangle-38-Copy-16" fill="#CDCDCD" sketch:type="MSShapeGroup" x="150.263456" y="93.263456" width="64" height="2"></rect>
+                <rect id="Rectangle-38-Copy-17" fill="#CDCDCD" sketch:type="MSShapeGroup" x="0.263455967" y="87.263456" width="224" height="2"></rect>
+                <path d="M214,126 L214,86 L225,70 L225,54 C225,54 215.412975,43.6663501 203,31 C194.62799,32.2036368 186.498749,27.0269307 189,17 C182.803641,10.9421562 178,7 178,7 L185,0 C185,0 187.514905,2.62244656 195,10 C204.697161,6.22765418 213.103533,13.9002763 210,24 C217.341717,31.4573116 222.975666,36.9932785 226,40 C229.731881,26.2874005 238.507765,17.5009899 256,18 C272.528826,17.5009899 289,18 289,18 L289,43 C289,43 261.607882,42.6947867 255,43 C252.03773,42.6947867 249.99441,44.7501312 250,47 C249.99441,51.2501745 250,70 250,70 L262,86 L262,126 L244,164 L231,164 L214,126 Z" id="Rectangle-1" stroke="#E6E6E6" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <text id="Rohmehl" sketch:type="MSTextLayer" font-family=".Helvetica Neue DeskInterface" font-size="14" font-weight="normal" fill="#727272">
+                    <tspan x="0" y="44">Rohmehl</tspan>
+                </text>
+                <text id="Klinker-temperatur" sketch:type="MSTextLayer" font-family=".Helvetica Neue DeskInterface" font-size="14" font-weight="normal" sketch:alignment="right" fill="#727272">
+                    <tspan x="-0.660569106" y="111">Klinker-temperatur</tspan>
+                </text>
+                <path d="M198.645317,19.2906342 L188,19.2906342 L188,21 L198.645317,21 L198.645317,31.6453171 L200.354683,31.6453171 L200.354683,21 L211,21 L211,19.2906342 L200.354683,19.2906342 L200.354683,8.64531708 L198.645317,8.64531708 L198.645317,19.2906342 Z M225,69 L231,69 L231,71 L225,71 L225,69 Z M215,86 L231,86 L231,88 L215,88 L215,86 Z M244,86 L261,86 L261,88 L244,88 L244,86 Z M202.299454,30.1371591 L209.370522,23.0660913 L210.784735,24.4803048 L203.713667,31.5513726 L202.299454,30.1371591 Z M244,69 L250,69 L250,71 L244,71 L244,69 Z M233,69 L233,106 L231,106 L231,69 L233,69 Z M244,69 L244,106 L242,106 L242,69 L244,69 Z M225.414214,38 L233.192388,45.7781746 L231.778175,47.1923882 L224,39.4142136 L225.414214,38 Z" id="Rectangle-3" fill="#E6E6E6" sketch:type="MSShapeGroup"></path>
+                <path d="M242,49 L242,93 L239.75,90 C239.75,90 237.881383,92.5967885 237.5,93 C237.532601,93 235.25,90 235.25,90 L233,93 L233,49 C233,46.790861 235.014719,45 237.5,45 C239.985281,45 242,46.790861 242,49 Z" id="Rectangle-15" opacity="0.3" fill="#4990E2" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Bubble-2" transform="translate(223.000000, 96.000000)" fill="#64C8EB" sketch:type="MSShapeGroup">
+                <circle id="Oval-2-Copy-9" cx="22.5" cy="2.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-11" cx="12.5" cy="2.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-12" cx="2.5" cy="2.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-13" cx="9.5" cy="9.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-14" cx="25.5" cy="19.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-20" cx="18.5" cy="14.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-15" cx="14.5" cy="33.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-19" cx="19.5" cy="26.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-16" cx="14.5" cy="43.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-17" cx="14.5" cy="53.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-18" cx="14.5" cy="63.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-10" cx="32.5" cy="2.5" r="2.5"></circle>
+            </g>
+            <g id="Bubble-1" transform="translate(208.000000, 28.000000)" fill="#4990E2" sketch:type="MSShapeGroup">
+                <circle id="Oval-2" cx="2.5" cy="3.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy" cx="9.5" cy="10.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-2" cx="16.5" cy="17.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-3" cx="22.5" cy="24.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-4" cx="29.5" cy="22.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-21" cx="29.5" cy="32.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-5" cx="29.5" cy="11.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-6" cx="35.5" cy="4.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-7" cx="45.5" cy="2.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-8" cx="55.5" cy="2.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-9" cx="65.5" cy="2.5" r="2.5"></circle>
+                <circle id="Oval-2-Copy-10" cx="75.5" cy="2.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
