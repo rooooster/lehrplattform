@@ -1,7 +1,10 @@
 body {
-    margin: 5%;
+    margin: 0;
+    padding: 5%;
     background: #eee;
     font-family: sans-serif;
+    @include outer-container;
+    text-align: center;
 }
 svg {
     background: #999;
@@ -9,8 +12,16 @@ svg {
 
 
 
+article {
+    @include span-columns(12);
+}
 
-
+svg.lehrplattform-svg {
+    @include span-columns(6);
+}
+iframe.lehrplattform-iframe {
+    @include span-columns(6);
+}
 
 $moveStep: 200%;
 
