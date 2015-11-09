@@ -24,6 +24,7 @@ iframe.lehrplattform-iframe {
 }
 
 $moveStep: 200%;
+$moveStepHalf: 200%/2;
 
 
 
@@ -106,5 +107,31 @@ $moveStep: 200%;
     }
     to {
         @include transform(translate3d(0,$moveStep,0));
+    }
+}
+
+.moveDownLeft {
+    @include animation(moveDownLeft .5s linear infinite);
+}
+
+@include keyframes(moveDownLeft) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d(-$moveStep,$moveStep,0));
+    }
+}
+
+.moveDownRight30 {
+    @include animation(moveDownRight30 .5s linear infinite);
+}
+
+@include keyframes(moveDownRight30) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d($moveStep,$moveStepHalf,0));
     }
 }
