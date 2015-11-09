@@ -14,7 +14,7 @@
       <tspan x="-.661" y="111">Klinker-temperatur</tspan>
     </text>
     <path fill="#E6E6E6" d="M198.645 21.29H188V23h10.645v10.645h1.71V23H211v-1.71h-10.645V10.646h-1.71V21.29zM225 71h6v2h-6v-2zm-10 17h16v2h-16v-2zm29 0h17v2h-17v-2zm-41.7-55.863l7.07-7.07 1.415 1.413-7.07 7.07-1.416-1.413zM244 71h6v2h-6v-2zm-11 0v37h-2V71h2zm11 0v37h-2V71h2zm-18.586-31l7.778 7.778-1.414 1.414L224 41.414 225.414 40z"/>
-    <path fill="#4990E2" d="M242 51v44l-2.25-3s-1.87 2.597-2.25 3c.033 0-2.25-3-2.25-3L233 95V51c0-2.21 2.015-4 4.5-4s4.5 1.79 4.5 4z" opacity=".3"/>
+    <path class="moveAirUp" fill="#4990E2" d="M242 51v44l-2.25-3s-1.87 2.597-2.25 3c.033 0-2.25-3-2.25-3L233 95V51c0-2.21 2.015-4 4.5-4s4.5 1.79 4.5 4z" opacity=".3"/>
     <g fill="#64C8EB" transform="translate(223 98)">
       <circle class="moveLeft" cx="32.5" cy="2.5" r="2.5"/>
       <circle class="moveLeft" cx="22.5" cy="2.5" r="2.5"/>
