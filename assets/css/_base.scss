@@ -7,7 +7,6 @@ body {
     text-align: center;
 }
 svg {
-    background: #999;
 }
 
 
@@ -16,8 +15,15 @@ article {
     @include span-columns(12);
 }
 
+svg.machine {
+    @include span-columns(12);
+}
+svg.car {
+    @include span-columns(6);
+}
 svg.lehrplattform-svg {
     @include span-columns(6);
+    background: #999;
 }
 iframe.lehrplattform-iframe {
     @include span-columns(6);
