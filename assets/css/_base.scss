@@ -21,10 +21,6 @@ article {
     @include span-columns(12);
 }
 
-svg.machine {
-    @include span-columns(12);
-    margin-bottom: 200px;
-}
 svg.car {
     @include span-columns(6);
 }
