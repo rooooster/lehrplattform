@@ -1,3 +1,15 @@
+// #main-machine-bg {
+//   width: 400;
+//   height: 425;
+//   position: absolute;
+//   top: 50%;
+//   left: 50%;
+//   transform: translate3d(-50%, -50%, 0);
+// }
+
+
+
+
 body {
     margin: 0;
     padding: 5%;
@@ -11,10 +23,25 @@ hr {
     margin: 40px auto;
 }
 svg {
+    display: block;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    a {
+        color: #666;
+    }
 }
 
 nav.main {
-    display: none;
+    // display: none;
+    a {
+        font-size: 12px;
+        color: #999;
+        display: inline-block;
+        padding: 10px 4px;
+    }
 }
 
 article {
