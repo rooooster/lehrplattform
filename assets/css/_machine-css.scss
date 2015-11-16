@@ -1,0 +1,168 @@
+svg.machine-css {
+    max-width: 800px;
+    margin: 40px auto 200px;
+    display: block;
+}
+
+button.btn-toggle {
+    display: inline-block;
+    cursor: pointer;
+}
+
+$ballStep: 20px;
+$speedNormal: .35s;
+$speedFast: .10s;
+$speedSlow: .60s;
+$speedStop: .00s;
+
+
+.ball-css {
+    fill: #65C7EA;
+    r: 4;
+}
+
+.ball-css-00 {
+    cx: 600 - $ballStep; 
+    cy: 5;
+}
+
+.ball-css-01 {
+    cx: 600; 
+    cy: 5;
+}
+
+.ball-css-02 {
+    cx: 600 + $ballStep;
+    cy: 5;
+}
+
+.ball-css-03 {
+    cx: 600 + $ballStep * 2;
+    cy: 5;
+}
+
+.ball-css-04 {
+    cx: 600 + $ballStep * 3;
+    cy: 5;
+}
+
+.ball-css-05 {
+    cx: 600 + $ballStep * 2;
+    cy: 5 + $ballStep;
+}
+
+.ball-css-06 {
+    cx: 600 + $ballStep;
+    cy: 5 + $ballStep * 2;
+}
+
+.ball-css-07 {
+    cx: 600;
+    cy: 5 + $ballStep * 3;
+}
+
+.ball-css-08 {
+    cx: 600;
+    cy: 5 + $ballStep * 4;
+}
+
+.ball-css-09 {
+    cx: 600;
+    cy: 5 + $ballStep * 5;
+}
+
+.ball-css-10 {
+    cx: 600;
+    cy: 5 + $ballStep * 6;
+}
+
+
+
+.stepRight {
+    @include animation(stepRight $speedNormal linear infinite);
+}
+.stepDown {
+    @include animation(stepDown $speedNormal linear infinite);
+}
+.stepDownLeft {
+    @include animation(stepDownLeft $speedNormal linear infinite);
+}
+
+
+@include keyframes(stepRight) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d($ballStep,0,0));
+    }
+}
+
+@include keyframes(stepDown) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d(0,$ballStep,0));
+    }
+}
+
+@include keyframes(stepDownLeft) {
+    from {
+        @include transform(translate3d(0,0,0));
+    }
+    to {
+        @include transform(translate3d(-$ballStep,$ballStep,0));
+    }
+}
+
+
+.speedNormal {
+    .stepRight {
+        @include animation-duration($speedNormal);
+    }
+    .stepDown {
+        @include animation-duration($speedNormal);
+    }
+    .stepDownLeft {
+        @include animation-duration($speedNormal);
+    }
+}
+
+.speedFast {
+    .stepRight {
+        @include animation-duration($speedFast);
+    }
+    .stepDown {
+        @include animation-duration($speedFast);
+    }
+    .stepDownLeft {
+        @include animation-duration($speedFast);
+    }
+}
+
+.speedSlow {
+    .stepRight {
+        @include animation-duration($speedSlow);
+    }
+    .stepDown {
+        @include animation-duration($speedSlow);
+    }
+    .stepDownLeft {
+        @include animation-duration($speedSlow);
+    }
+}
+
+.speedStop {
+    .stepRight {
+        @include animation-duration($speedStop);
+    }
+    .stepDown {
+        @include animation-duration($speedStop);
+    }
+    .stepDownLeft {
+        @include animation-duration($speedStop);
+    }
+}
+
+
