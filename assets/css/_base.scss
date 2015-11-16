@@ -2,14 +2,20 @@ body {
     margin: 0;
     padding: 5%;
     background: #eee;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     @include outer-container;
     text-align: center;
+    color: #656565;
+}
+hr {
+    margin: 40px auto;
 }
 svg {
 }
 
-
+nav.main {
+    display: none;
+}
 
 article {
     @include span-columns(12);
@@ -17,6 +23,7 @@ article {
 
 svg.machine {
     @include span-columns(12);
+    margin-bottom: 200px;
 }
 svg.car {
     @include span-columns(6);
