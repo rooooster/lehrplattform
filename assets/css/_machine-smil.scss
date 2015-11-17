@@ -4,14 +4,21 @@ svg.machine-smil {
 }
 
 .ball-smil {
-    fill: #65C7EA;
-    r: 4;
-    cx: 0; 
-    cy: 0;
+    // fill: #65C7EA;
+    // r: 4px;
+    // cx: 0px; 
+    // cy: 0px;
+}
+
+.engine {
+    // position: absolute;
+    // top: -50%;
+    // left: -50%;
+    // @include transform(translate3d(-50%,-50%,0));
 }
 
 .moveCircle {
-    transform-origin: 50% 50%;
+    @include transform-origin(20px 20px);
     @include animation(moveCircle 2.5s linear infinite);
 }
 @include keyframes(moveCircle) {

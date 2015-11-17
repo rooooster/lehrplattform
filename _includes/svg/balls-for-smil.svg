@@ -1,0 +1,199 @@
+<circle id="ball-01" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-02" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-03" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-04" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-05" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-06" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-07" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-08" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-09" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-10" class="ball-smil" r="4" cx="0" cy="0"/>
+
+<circle id="ball-11" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-12" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-13" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-14" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-15" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-16" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-17" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-18" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-19" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-20" class="ball-smil" r="4" cx="0" cy="0"/>
+
+<circle id="ball-21" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-22" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-23" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-24" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-25" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-26" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-27" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-28" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-29" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-30" class="ball-smil" r="4" cx="0" cy="0"/>
+
+<circle id="ball-31" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-32" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-33" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-34" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-35" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-36" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-37" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-38" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-39" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-40" class="ball-smil" r="4" cx="0" cy="0"/>
+
+<circle id="ball-41" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-42" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-43" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-44" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-45" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-46" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-47" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-48" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-49" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-50" class="ball-smil" r="4" cx="0" cy="0"/>
+
+<circle id="ball-51" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-52" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-53" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-54" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-55" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-56" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-57" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-58" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-59" class="ball-smil" r="4" cx="0" cy="0"/>
+<circle id="ball-60" class="ball-smil" r="4" cx="0" cy="0"/>
+
+<animateMotion xlink:href="#ball-01" dur="12s" begin="0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-02" dur="12s" begin=".2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-03" dur="12s" begin=".4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-04" dur="12s" begin=".6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-05" dur="12s" begin=".8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-06" dur="12s" begin="1.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-07" dur="12s" begin="1.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-08" dur="12s" begin="1.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-09" dur="12s" begin="1.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-10" dur="12s" begin="1.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+
+<animateMotion xlink:href="#ball-11" dur="12s" begin="2.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-12" dur="12s" begin="2.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-13" dur="12s" begin="2.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-14" dur="12s" begin="2.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-15" dur="12s" begin="2.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-16" dur="12s" begin="3.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-17" dur="12s" begin="3.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-18" dur="12s" begin="3.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-19" dur="12s" begin="3.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-20" dur="12s" begin="3.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+
+<animateMotion xlink:href="#ball-21" dur="12s" begin="4.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-22" dur="12s" begin="4.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-23" dur="12s" begin="4.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-24" dur="12s" begin="4.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-25" dur="12s" begin="4.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-26" dur="12s" begin="5.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-27" dur="12s" begin="5.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-28" dur="12s" begin="5.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-29" dur="12s" begin="5.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-30" dur="12s" begin="5.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+
+<animateMotion xlink:href="#ball-31" dur="12s" begin="6.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-32" dur="12s" begin="6.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-33" dur="12s" begin="6.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-34" dur="12s" begin="6.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-35" dur="12s" begin="6.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-36" dur="12s" begin="7.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-37" dur="12s" begin="7.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-38" dur="12s" begin="7.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-39" dur="12s" begin="7.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-40" dur="12s" begin="7.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+
+<animateMotion xlink:href="#ball-41" dur="12s" begin="8.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-42" dur="12s" begin="8.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-43" dur="12s" begin="8.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-44" dur="12s" begin="8.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-45" dur="12s" begin="8.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-46" dur="12s" begin="9.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-47" dur="12s" begin="9.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-48" dur="12s" begin="9.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-49" dur="12s" begin="9.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-50" dur="12s" begin="9.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+
+<animateMotion xlink:href="#ball-51" dur="12s" begin="10.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-52" dur="12s" begin="10.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-53" dur="12s" begin="10.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-54" dur="12s" begin="10.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-55" dur="12s" begin="10.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-56" dur="12s" begin="11.0s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-57" dur="12s" begin="11.2s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-58" dur="12s" begin="11.4s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-59" dur="12s" begin="11.6s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+<animateMotion xlink:href="#ball-60" dur="12s" begin="11.8s" fill="freeze" repeatCount="indefinite" ><mpath xlink:href="#way"/></animateMotion>
+
+<animate xlink:href="#ball-01" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-02" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin=".2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-03" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin=".4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-04" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin=".6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-05" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin=".8s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-06" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="1.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-07" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="1.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-08" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="1.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-09" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="1.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-10" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="1.8s" repeatCount="indefinite"/>
+
+<animate xlink:href="#ball-11" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="2.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-12" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="2.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-13" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="2.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-14" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="2.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-15" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="2.8s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-16" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="3.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-17" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="3.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-18" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="3.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-19" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="3.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-20" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="3.8s" repeatCount="indefinite"/>
+
+<animate xlink:href="#ball-21" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="4.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-22" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="4.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-23" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="4.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-24" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="4.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-25" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="4.8s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-26" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="5.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-27" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="5.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-28" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="5.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-29" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="5.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-30" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="5.8s" repeatCount="indefinite"/>
+
+<animate xlink:href="#ball-31" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="6.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-32" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="6.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-33" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="6.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-34" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="6.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-35" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="6.8s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-36" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="7.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-37" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="7.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-38" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="7.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-39" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="7.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-40" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="7.8s" repeatCount="indefinite"/>
+
+<animate xlink:href="#ball-41" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="8.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-42" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="8.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-43" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="8.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-44" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="8.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-45" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="8.8s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-46" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="9.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-47" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="9.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-48" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="9.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-49" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="9.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-50" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="9.8s" repeatCount="indefinite"/>
+
+<animate xlink:href="#ball-51" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="10.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-52" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="10.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-53" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="10.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-54" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="10.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-55" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="10.8s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-56" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="11.0s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-57" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="11.2s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-58" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="11.4s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-59" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="11.6s" repeatCount="indefinite"/>
+<animate xlink:href="#ball-60" attributeName="fill" from="#65C7EA" to="#ff0" dur="12s" begin="11.8s" repeatCount="indefinite"/>
+
+
