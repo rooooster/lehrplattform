@@ -1,7 +1,10 @@
+---
+---
+
 var s = Snap("#main-machine-bg");
 
-var count = 20;
-var speed = 4;
+var count = 30;
+var speed = 3;
 var i;
 
 var pool = [];
@@ -16,7 +19,7 @@ for(i = 0; i < count; i++) {
   pool.push(ball);
 }
 
-Snap.load("../assets/img/machine-snap.svg", function(data) {
+Snap.load("/assets/img/machine-snap.svg", function(data) {
   var way = data.select("#way");
   
   s.append(data);
@@ -59,13 +62,13 @@ Snap("#toggleStop").click(function() {
 });
 
 Snap("#toggleSlow").click(function() {
-  speed = 2;
+  speed = 1;
 });
 
 Snap("#toggleNormal").click(function() {
-  speed = 4;
+  speed = 3;
 });
 
 Snap("#toggleFast").click(function() {
-  speed = 6;
+  speed = 5;
 });
