@@ -19,7 +19,7 @@ for(i = 0; i < count; i++) {
   pool.push(ball);
 }
 
-Snap.load("/assets/img/machine-snap.svg", function(data) {
+Snap.load("{{ site.baseurl }}/assets/img/machine-snap.svg", function(data) {
   var way = data.select("#way");
   
   s.append(data);
