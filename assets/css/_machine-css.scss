@@ -199,3 +199,93 @@ $speedStop: .00s;
     to {@include transform(translate3d(-24px,17px,0));}
 }
 
+.ball-06 {@include animation(ball-06 .47s linear infinite);}
+@include keyframes(ball-06) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(10px,14px,0));}
+}
+
+.ball-07 {@include animation(ball-07 .47s linear infinite);}
+@include keyframes(ball-07) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(0,49px,0));}
+}
+
+.ball-08 {@include animation(ball-08 .47s linear infinite);}
+@include keyframes(ball-08) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(-90px,0,0));}
+}
+
+.ball-09 {@include animation(ball-09 .47s linear infinite);}
+@include keyframes(ball-09) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(24px,16px,0));}
+}
+
+.ball-10 {@include animation(ball-10 .47s linear infinite);}
+@include keyframes(ball-10) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(-9px,14px,0));}
+}
+
+.ball-11 {@include animation(ball-11 .47s linear infinite);}
+@include keyframes(ball-11) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(0,56px,0));}
+}
+
+.ball-12 {@include animation(ball-12 .47s linear infinite);}
+@include keyframes(ball-12) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(90px,0,0));}
+}
+
+.ball-13 {@include animation(ball-13 .47s linear infinite);}
+@include keyframes(ball-13) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(-24px,17px,0));}
+}
+
+.ball-14 {@include animation(ball-14 .47s linear infinite);}
+@include keyframes(ball-14) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(10px,14px,0));}
+}
+
+.ball-15 {@include animation(ball-15 .47s linear infinite);}
+@include keyframes(ball-15) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(0,49px,0));}
+}
+
+.ball-16 {@include animation(ball-16 .47s linear infinite);}
+@include keyframes(ball-16) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(-90px,0,0));}
+}
+
+.ball-17 {@include animation(ball-17 .47s linear infinite);}
+@include keyframes(ball-17) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(24px,17px,0));}
+}
+
+.ball-18 {@include animation(ball-18 .47s linear infinite);}
+@include keyframes(ball-18) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(-10px,13px,0));}
+}
+
+.ball-19 {@include animation(ball-19 .47s linear infinite);}
+@include keyframes(ball-19) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(0,21px,0));}
+}
+
+.ball-20 {@include animation(ball-20 .47s linear infinite);}
+@include keyframes(ball-20) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(102px,103px,0));}
+}
+
