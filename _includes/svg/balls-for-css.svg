@@ -1,36 +1,23 @@
-<!-- <circle r="4" cx="100" cy="100" class="ball-css ball-css-00 stepRight"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-01 stepRight"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-02 stepRight"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-03 stepRight"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-04 stepDownLeft"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-05 stepDownLeft"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-06 stepDownLeft"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-07 stepDown"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-08 stepDown"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-09 stepDown"/>
-<circle r="4" cx="0" cy="0" class="ball-css ball-css-10 stepDown"/>
-
- -->
 <g id="balls" transform="translate(58, 118)" fill="#65C7EA">
-    <circle id="ball-css" cx="32" cy="32" r="4"></circle>
-    <circle id="ball-css" cx="2" cy="2" r="4"></circle>
-    <circle id="ball-css" cx="32" cy="15" r="4"></circle>
-    <circle id="ball-css" cx="42" cy="4" r="4"></circle>
-    <circle id="ball-css" cx="121" cy="4" r="4"></circle>
-    <circle id="ball-css" cx="97" cy="21" r="4"></circle>
-    <circle id="ball-css" cx="107" cy="35" r="4"></circle>
-    <circle id="ball-css" cx="107" cy="84" r="4"></circle>
-    <circle id="ball-css" cx="17" cy="84" r="4"></circle>
-    <circle id="ball-css" cx="41" cy="101" r="4"></circle>
-    <circle id="ball-css" cx="32" cy="114" r="4"></circle>
-    <circle id="ball-css" cx="32" cy="170" r="4"></circle>
-    <circle id="ball-css" cx="122" cy="170" r="4"></circle>
-    <circle id="ball-css" cx="97" cy="187" r="4"></circle>
-    <circle id="ball-css" cx="107" cy="201" r="4"></circle>
-    <circle id="ball-css" cx="107" cy="250" r="4"></circle>
-    <circle id="ball-css" cx="17" cy="250" r="4"></circle>
-    <circle id="ball-css" cx="42" cy="267" r="4"></circle>
-    <circle id="ball-css" cx="32" cy="280" r="4"></circle>
-    <circle id="ball-css" cx="32" cy="301" r="4"></circle>
-    <circle id="ball-css" cx="134" cy="404" r="4"></circle>
+    <circle class="ball-01" cx="2" cy="2" r="4"></circle>
+    <circle class="ball-02" cx="32" cy="32" r="4"></circle>
+    <circle class="ball-03" cx="32" cy="15" r="4"></circle>
+    <circle class="ball-04" cx="42" cy="4" r="4"></circle>
+    <circle class="ball-05" cx="121" cy="4" r="4"></circle>
+    <circle class="ball-06" cx="97" cy="21" r="4"></circle>
+    <circle class="ball-07" cx="107" cy="35" r="4"></circle>
+    <circle class="ball-08" cx="107" cy="84" r="4"></circle>
+    <circle class="ball-09" cx="17" cy="84" r="4"></circle>
+    <circle class="ball-10" cx="41" cy="101" r="4"></circle>
+    <circle class="ball-11" cx="32" cy="114" r="4"></circle>
+    <circle class="ball-12" cx="32" cy="170" r="4"></circle>
+    <circle class="ball-13" cx="122" cy="170" r="4"></circle>
+    <circle class="ball-14" cx="97" cy="187" r="4"></circle>
+    <circle class="ball-15" cx="107" cy="201" r="4"></circle>
+    <circle class="ball-16" cx="107" cy="250" r="4"></circle>
+    <circle class="ball-17" cx="17" cy="250" r="4"></circle>
+    <circle class="ball-18" cx="42" cy="267" r="4"></circle>
+    <circle class="ball-19" cx="32" cy="280" r="4"></circle>
+    <circle class="ball-20" cx="32" cy="301" r="4"></circle>
+    <circle class="ball-21" cx="134" cy="404" r="4"></circle>
 </g>

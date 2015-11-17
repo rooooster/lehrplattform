@@ -166,3 +166,36 @@ $speedStop: .00s;
 }
 
 
+
+
+
+.ball-01 {@include animation(ball-01 .47s linear infinite);}
+@include keyframes(ball-01) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(30px,30px,0));}
+}
+
+.ball-02 {@include animation(ball-02 .47s linear infinite);}
+@include keyframes(ball-02) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(0,-17px,0));}
+}
+
+.ball-03 {@include animation(ball-03 .47s linear infinite);}
+@include keyframes(ball-03) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(10px,-11px,0));}
+}
+
+.ball-04 {@include animation(ball-04 .47s linear infinite);}
+@include keyframes(ball-04) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(79px,0,0));}
+}
+
+.ball-05 {@include animation(ball-05 .47s linear infinite);}
+@include keyframes(ball-05) {
+    from {@include transform(translate3d(0,0,0));}
+    to {@include transform(translate3d(-24px,17px,0));}
+}
+
