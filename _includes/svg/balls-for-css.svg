@@ -1,4 +1,6 @@
 <g id="balls" transform="translate(58, 118)" fill="#65C7EA">
+    <circle class="ball-00" cx="2" cy="2" r="4"></circle>
+    
     <circle class="ball-01" cx="2" cy="2" r="4"></circle>
     <circle class="ball-02" cx="32" cy="32" r="4"></circle>
     <circle class="ball-03" cx="32" cy="15" r="4"></circle>
