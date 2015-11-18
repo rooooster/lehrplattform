@@ -5,7 +5,7 @@ svg.machine-css {
 }
 
 .ball-00 {
-    @include animation(way 12s linear infinite);
+    @include animation(way 12s linear infinite, fill 12s linear infinite);
 }
 @include keyframes(way) {
     0% {@include transform(translate(0,0));}
@@ -33,6 +33,10 @@ svg.machine-css {
     80.93207094% {@include transform(translate(508px,465px));}
     84.82050983% {@include transform(translate(508px,529px));}
     100% {@include transform(translate(746px,605px));}
+}
+@include keyframes(fill) {
+    0% {fill:#65C7EA;}
+    100% {fill:#EEFF00;}
 }
 
 .ball-01 {@include animation-delay(0s);}
@@ -109,7 +113,7 @@ button.btn-toggle {
 
 $speedNormal: 9s;
 $speedFast: 6s;
-$speedSlow: 12s;
+$speedSlow: 18s;
 $speedStop: 0s;
 
 .speedNormal .ball-00 {@include animation-duration($speedNormal);}
