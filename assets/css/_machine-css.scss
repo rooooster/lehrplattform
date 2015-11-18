@@ -5,6 +5,7 @@ svg.machine-css {
 }
 
 .ball-00 {
+    fill:#65C7EA;
     @include animation(way 12s linear infinite, fill 12s linear infinite);
 }
 @include keyframes(way) {
