@@ -74,8 +74,6 @@
                 <g id="Rectangle-94-Copy-2-+-Rectangle-94-Copy-3" transform="translate(115.500000, 153.500000) scale(-1, 1) translate(-115.500000, -153.500000) translate(99.000000, 52.000000)"></g>
             </g>
 
-            {% include svg/balls-for-css.svg %}
-
             <g id="Group" sketch:type="MSLayerGroup" transform="translate(377.219478, 536.184738) rotate(-2.000000) translate(-377.219478, -536.184738) translate(184.219478, 472.184738)" stroke="#DBDBDB" stroke-width="2">
                 <rect id="Rectangle-85" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(193.236194, 62.929411) rotate(-350.000000) translate(-193.236194, -62.929411) " x="2.8236238" y="32.9294112" width="380.82514" height="60" rx="10"></rect>
                 <rect id="Rectangle-86" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(72.052566, 7.988524) rotate(-350.000000) translate(-72.052566, -7.988524) " x="62.0525655" y="2.98852377" width="20" height="10"></rect>
@@ -92,6 +90,8 @@
                 <rect id="Rectangle-86-Copy-4" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(190.672228, 95.988082) rotate(-350.000000) translate(-190.672228, -95.988082) " x="180.672228" y="90.9880818" width="20" height="10"></rect>
             </g>
 
+
+            {% include svg/balls-for-css.svg %}
 
             <g id="Balls-Start" sketch:type="MSLayerGroup" transform="translate(38.000000, 98.000000)">
                 <g id="Group-+-Rectangle-1-Copy-4-+-Oval-97" transform="translate(14.971986, 14.643559) scale(-1, -1) rotate(-315.000000) translate(-14.971986, -14.643559) translate(2.971986, 6.143559)" stroke="#DBDBDB" stroke-width="2" sketch:type="MSShapeGroup">
@@ -173,18 +173,6 @@
             </g>
         </g>
     </g>
-
-    <circle class="ball-css ball-css-00 stepRight"/>
-    <circle class="ball-css ball-css-01 stepRight"/>
-    <circle class="ball-css ball-css-02 stepRight"/>
-    <circle class="ball-css ball-css-03 stepRight"/>
-    <circle class="ball-css ball-css-04 stepDownLeft"/>
-    <circle class="ball-css ball-css-05 stepDownLeft"/>
-    <circle class="ball-css ball-css-06 stepDownLeft"/>
-    <circle class="ball-css ball-css-07 stepDown"/>
-    <circle class="ball-css ball-css-08 stepDown"/>
-    <circle class="ball-css ball-css-09 stepDown"/>
-    <circle class="ball-css ball-css-10 stepDown"/>
 
 </svg>
 

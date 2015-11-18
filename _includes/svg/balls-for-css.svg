@@ -1,25 +1,70 @@
-<g id="balls" transform="translate(58, 118)" fill="#65C7EA">
-    <circle class="ball-00" cx="2" cy="2" r="4"></circle>
-    
-    <circle class="ball-01" cx="2" cy="2" r="4"></circle>
-    <circle class="ball-02" cx="32" cy="32" r="4"></circle>
-    <circle class="ball-03" cx="32" cy="15" r="4"></circle>
-    <circle class="ball-04" cx="42" cy="4" r="4"></circle>
-    <circle class="ball-05" cx="121" cy="4" r="4"></circle>
-    <circle class="ball-06" cx="97" cy="21" r="4"></circle>
-    <circle class="ball-07" cx="107" cy="35" r="4"></circle>
-    <circle class="ball-08" cx="107" cy="84" r="4"></circle>
-    <circle class="ball-09" cx="17" cy="84" r="4"></circle>
-    <circle class="ball-10" cx="41" cy="101" r="4"></circle>
-    <circle class="ball-11" cx="32" cy="114" r="4"></circle>
-    <circle class="ball-12" cx="32" cy="170" r="4"></circle>
-    <circle class="ball-13" cx="122" cy="170" r="4"></circle>
-    <circle class="ball-14" cx="97" cy="187" r="4"></circle>
-    <circle class="ball-15" cx="107" cy="201" r="4"></circle>
-    <circle class="ball-16" cx="107" cy="250" r="4"></circle>
-    <circle class="ball-17" cx="17" cy="250" r="4"></circle>
-    <circle class="ball-18" cx="42" cy="267" r="4"></circle>
-    <circle class="ball-19" cx="32" cy="280" r="4"></circle>
-    <circle class="ball-20" cx="32" cy="301" r="4"></circle>
-    <circle class="ball-21" cx="134" cy="404" r="4"></circle>
+<g id="balls" transform="translate(58,118)" fill="#65C7EA">
+
+    <circle class="ball-00 ball-01" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-02" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-03" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-04" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-05" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-06" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-07" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-08" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-09" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-10" r="4" cx="0" cy="0"/>
+
+    <circle class="ball-00 ball-11" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-12" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-13" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-14" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-15" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-16" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-17" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-18" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-19" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-20" r="4" cx="0" cy="0"/>
+
+    <circle class="ball-00 ball-21" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-22" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-23" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-24" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-25" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-26" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-27" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-28" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-29" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-30" r="4" cx="0" cy="0"/>
+
+    <circle class="ball-00 ball-31" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-32" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-33" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-34" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-35" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-36" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-37" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-38" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-39" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-40" r="4" cx="0" cy="0"/>
+
+    <circle class="ball-00 ball-41" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-42" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-43" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-44" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-45" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-46" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-47" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-48" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-49" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-50" r="4" cx="0" cy="0"/>
+
+    <circle class="ball-00 ball-51" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-52" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-53" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-54" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-55" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-56" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-57" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-58" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-59" r="4" cx="0" cy="0"/>
+    <circle class="ball-00 ball-60" r="4" cx="0" cy="0"/>
+
 </g>
+
