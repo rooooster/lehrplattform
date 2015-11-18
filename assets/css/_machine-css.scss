@@ -107,9 +107,9 @@ button.btn-toggle {
     cursor: pointer;
 }
 
-$speedNormal: 12s;
-$speedFast: 18s;
-$speedSlow: 8s;
+$speedNormal: 9s;
+$speedFast: 6s;
+$speedSlow: 12s;
 $speedStop: 0s;
 
 .speedNormal .ball-00 {@include animation-duration($speedNormal);}
